@@ -3,7 +3,7 @@
       "windows": {
         "open-url": "",
         "latest-version": "1.0",
-        "download-url": "https://gitee.com/lorenhan/KincoServo3/raw/master/KincoServo3.zip",
+        "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/KincoServo3.zip",
         "changelog": "This is an example changelog for Windows. Go on...",
         "mandatory": true
       }
