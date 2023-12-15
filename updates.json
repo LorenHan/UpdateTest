@@ -4,7 +4,7 @@
         "open-url": "",
         "latest-version": "1.0",
         "download-url": "https://raw.githubusercontent.com/LorenHan/UpdateTest/main/KincoServo3.zip",
-        "changelog": "This is an example changelog for Windows. Go on...",
+        "changelog": "上位机采样去掉单次勾选框。",
         "mandatory": true
       }
     }
