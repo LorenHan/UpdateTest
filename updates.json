@@ -2,9 +2,9 @@
     "updates": {
       "windows": {
         "open-url": "",
-        "latest-version": "1.0.6",
+        "latest-version": "1.1.0",
         "download-url": "https://raw.githubusercontent.com/LorenHan/UpdateTest/main/KincoServo3.zip",
-        "changelog": "- 修复某些波形文件打开错误",
+        "changelog": "- 解决示波器采集数据后界面卡顿\n - 解决切换dat和对象字典界面最大化会造成界面卡死\n - 解决波形文件打开造成的若干问题\n - 解决示波器在低分辨率屏幕上显示不全问题\n",
         "mandatory": true
       }
     }
