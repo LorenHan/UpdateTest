@@ -2,9 +2,9 @@
     "updates": {
       "windows": {
         "open-url": "",
-        "latest-version": "1.1.1",
+        "latest-version": "1.1.2",
         "download-url": "https://raw.githubusercontent.com/LorenHan/UpdateTest/main/KincoServo3.zip",
-        "changelog": "- 修复示波器光标线移动卡顿\n - 修复IO设置一些组合无法写入等问题\n",
+        "changelog": "- 添加创芯CAN、PeakCAN\n - 根据软件版本号自动切换dat\n",
         "mandatory": true
       }
     }
